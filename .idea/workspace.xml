@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89515737-65e8-42a1-98e4-a7015973e3e9" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="68" column="40" lean-forward="false" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/custom/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1464">
+              <caret line="61" column="19" lean-forward="false" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/custom/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insertdata.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/insertdata.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="462" lean-forward="false" selection-start-line="6" selection-start-column="462" selection-end-line="6" selection-end-column="462" />
+              <folding>
+                <marker date="1508859489573" expanded="true" signature="82:220" ph="INSERT INTO ctinfo... " />
+                <marker date="1508859489573" expanded="true" signature="82:222" ph="INSERT INTO ctinfo... " />
+                <marker date="1508859489573" expanded="true" signature="82:241" ph="INSERT INTO ctinfo... " />
+                <marker date="1508859489573" expanded="true" signature="82:266" ph="INSERT INTO ctinfo... " />
+                <marker date="1508859489573" expanded="true" signature="82:308" ph="INSERT INTO ctinfo... " />
+                <marker date="1508859489573" expanded="true" signature="82:348" ph="INSERT INTO ctinfo... " />
+                <marker date="1508859489573" expanded="true" signature="82:391" ph="INSERT INTO ctinfo... " />
+                <marker date="1508859489573" expanded="true" signature="82:435" ph="INSERT INTO ctinfo... " />
+                <marker date="1508859489573" expanded="true" signature="82:468" ph="INSERT INTO ctinfo... " />
+                <marker date="1508859489573" expanded="true" signature="82:501" ph="INSERT INTO ctinfo... " />
+                <marker date="1508859489573" expanded="true" signature="82:586" ph="INSERT INTO ctinfo... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="updatestate.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/updatestate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding>
+                <marker date="1508859537634" expanded="true" signature="82:108" ph="update state... " />
+                <marker date="1508859537634" expanded="true" signature="82:110" ph="update state... " />
+                <marker date="1508859537634" expanded="true" signature="82:140" ph="update state... " />
+                <marker date="1508859537634" expanded="true" signature="82:189" ph="update state... " />
+                <marker date="1508859537634" expanded="true" signature="82:237" ph="update state... " />
+                <marker date="1508859537634" expanded="true" signature="82:271" ph="update state... " />
+                <marker date="1508859537634" expanded="true" signature="82:319" ph="update state... " />
+                <marker date="1508859537634" expanded="true" signature="82:353" ph="update state... " />
+                <marker date="1508859537634" expanded="true" signature="82:395" ph="update state... " />
+                <marker date="1508859537634" expanded="true" signature="82:417" ph="update state... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="updatect.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/updatect.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="427" lean-forward="false" selection-start-line="6" selection-start-column="427" selection-end-line="6" selection-end-column="427" />
+              <folding>
+                <marker date="1508859610405" expanded="true" signature="80:110" ph="update ctinf... " />
+                <marker date="1508859610405" expanded="true" signature="80:112" ph="update ctinf... " />
+                <marker date="1508859610405" expanded="true" signature="80:144" ph="update ctinf... " />
+                <marker date="1508859610405" expanded="true" signature="80:173" ph="update ctinf... " />
+                <marker date="1508859610405" expanded="true" signature="80:208" ph="update ctinf... " />
+                <marker date="1508859610405" expanded="true" signature="80:266" ph="update ctinf... " />
+                <marker date="1508859610405" expanded="true" signature="80:328" ph="update ctinf... " />
+                <marker date="1508859610405" expanded="true" signature="80:379" ph="update ctinf... " />
+                <marker date="1508859610405" expanded="true" signature="80:420" ph="update ctinf... " />
+                <marker date="1508859610405" expanded="true" signature="80:464" ph="update ctinf... " />
+                <marker date="1508859610405" expanded="true" signature="80:576" ph="update ctinf... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/search.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding>
+                <marker date="1508310220285" expanded="true" signature="91:158" ph="SELECT code,... county" />
+                <marker date="1508310220285" expanded="true" signature="299:393" ph="SELECT code,... county" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getdata.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/getdata.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <marker date="1508836423474" expanded="true" signature="178:223" ph="SELECT * fro... state" />
+                <marker date="1508836423474" expanded="true" signature="461:506" ph="SELECT * fro... county" />
+                <marker date="1508836423474" expanded="true" signature="737:1049" ph="SELECT ctif.... ctinfo" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>HORIZONTAL FORM</find>
+      <find>.php</find>
+      <find>add_ct_email</find>
+      <find>getData</find>
+      <find>insertData</find>
+      <find>initialUpdateCt</find>
+      <find>sort_both.png</find>
+      <find>none</find>
+      <find>one</find>
+      <find>windspeed_g</find>
+      <find>initUpdateAction</find>
+      <find>search</find>
+      <find>windspeed_</find>
+      <find>update_state_btn</find>
+      <find>initialUpdatestate</find>
+      <find>br</find>
+      <find>addslashes</find>
+      <find>initialUpdatestate()</find>
+      <find>hyperlink</find>
+      <find>add county</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>htmlspecialchars</replace>
+    </replaceStrings>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="php -v" />
+    </commandsHistory>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mysql.php" />
+        <option value="$PROJECT_DIR$/search.php" />
+        <option value="$PROJECT_DIR$/assets/custom/js/test.js" />
+        <option value="$PROJECT_DIR$/db.php" />
+        <option value="$PROJECT_DIR$/getdata.php" />
+        <option value="$PROJECT_DIR$/api/deletect.php" />
+        <option value="$PROJECT_DIR$/assets/jvector/jquery-jvectormap-us_aea.min.js" />
+        <option value="$PROJECT_DIR$/assets/global/plugins/datatables/datatables.min.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/assets/custom/css/custom.css" />
+        <option value="$PROJECT_DIR$/api/getdata.php" />
+        <option value="$PROJECT_DIR$/assets/custom/js/custom.js" />
+        <option value="$PROJECT_DIR$/api/insertdata.php" />
+        <option value="$PROJECT_DIR$/api/updatestate.php" />
+        <option value="$PROJECT_DIR$/api/updatect.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" break_at_first_line="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="testmap.com" id="c57c09b9-7c81-4501-96c3-7c78d342ddc4" name="testmap.com" />
+      <server host="localhost" id="c285cc91-c2c5-4a69-8098-f8d6b3bc5711" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="map" type="b2602c69:ProjectViewProjectNode" />
+              <item name="map" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="map" type="b2602c69:ProjectViewProjectNode" />
+              <item name="map" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="api" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="map" type="b2602c69:ProjectViewProjectNode" />
+              <item name="map" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="map" type="b2602c69:ProjectViewProjectNode" />
+              <item name="map" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="custom" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="map" type="b2602c69:ProjectViewProjectNode" />
+              <item name="map" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="custom" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="map" type="b2602c69:ProjectViewProjectNode" />
+              <item name="map" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="custom" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="map" type="b2602c69:ProjectViewProjectNode" />
+              <item name="map" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jvector" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.splitter.proportion" value="0.23212537" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Working projects\USmap\map\api" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89515737-65e8-42a1-98e4-a7015973e3e9" name="Default" comment="" />
+      <created>1508258832428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508258832428</updated>
+      <workItem from="1508258833769" duration="2801000" />
+      <workItem from="1508346587813" duration="14781000" />
+      <workItem from="1508401733551" duration="36455000" />
+      <workItem from="1508784322090" duration="9710000" />
+      <workItem from="1508826637870" duration="24469000" />
+      <workItem from="1511196794172" duration="1444000" />
+      <workItem from="1511789068515" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="89712000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16950959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997773" sideWeight="0.5021322" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2516704" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997773" sideWeight="0.5021322" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14552239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997773" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="49" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/custom/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1464">
+          <caret line="61" column="19" lean-forward="false" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/custom/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/insertdata.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="462" lean-forward="false" selection-start-line="6" selection-start-column="462" selection-end-line="6" selection-end-column="462" />
+          <folding>
+            <marker date="1508859489573" expanded="true" signature="82:220" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:222" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:241" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:266" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:308" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:348" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:391" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:435" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:468" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:501" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:586" ph="INSERT INTO ctinfo... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/updatestate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1508859537634" expanded="true" signature="82:108" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:110" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:140" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:189" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:237" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:271" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:319" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:353" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:395" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:417" ph="update state... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/updatect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="427" lean-forward="false" selection-start-line="6" selection-start-column="427" selection-end-line="6" selection-end-column="427" />
+          <folding>
+            <marker date="1508859610405" expanded="true" signature="80:110" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:112" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:144" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:173" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:208" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:266" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:328" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:379" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:420" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:464" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:576" ph="update ctinf... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <marker date="1508310220285" expanded="true" signature="91:158" ph="SELECT code,... county" />
+            <marker date="1508310220285" expanded="true" signature="299:393" ph="SELECT code,... county" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/getdata.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1508836423474" expanded="true" signature="178:223" ph="SELECT * fro... state" />
+            <marker date="1508836423474" expanded="true" signature="461:506" ph="SELECT * fro... county" />
+            <marker date="1508836423474" expanded="true" signature="737:1049" ph="SELECT ctif.... ctinfo" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/custom/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1464">
+          <caret line="61" column="19" lean-forward="false" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/custom/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/insertdata.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="462" lean-forward="false" selection-start-line="6" selection-start-column="462" selection-end-line="6" selection-end-column="462" />
+          <folding>
+            <marker date="1508859489573" expanded="true" signature="82:220" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:222" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:241" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:266" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:308" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:348" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:391" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:435" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:468" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:501" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:586" ph="INSERT INTO ctinfo... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/updatestate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1508859537634" expanded="true" signature="82:108" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:110" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:140" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:189" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:237" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:271" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:319" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:353" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:395" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:417" ph="update state... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/updatect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="427" lean-forward="false" selection-start-line="6" selection-start-column="427" selection-end-line="6" selection-end-column="427" />
+          <folding>
+            <marker date="1508859610405" expanded="true" signature="80:110" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:112" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:144" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:173" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:208" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:266" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:328" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:379" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:420" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:464" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:576" ph="update ctinf... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <marker date="1508310220285" expanded="true" signature="91:158" ph="SELECT code,... county" />
+            <marker date="1508310220285" expanded="true" signature="299:393" ph="SELECT code,... county" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/getdata.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1508836423474" expanded="true" signature="178:223" ph="SELECT * fro... state" />
+            <marker date="1508836423474" expanded="true" signature="461:506" ph="SELECT * fro... county" />
+            <marker date="1508836423474" expanded="true" signature="737:1049" ph="SELECT ctif.... ctinfo" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3336">
+          <caret line="139" column="101" lean-forward="false" selection-start-line="139" selection-start-column="88" selection-end-line="139" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/custom/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/updatestate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1508859537634" expanded="true" signature="82:108" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:110" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:140" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:189" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:237" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:271" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:319" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:353" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:395" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:417" ph="update state... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/updatect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1508859610405" expanded="true" signature="80:110" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:112" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:144" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:173" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:208" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:266" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:328" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:379" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:420" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:464" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:576" ph="update ctinf... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/getdata.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <marker date="1508836423474" expanded="true" signature="178:223" ph="SELECT * fro... state" />
+            <marker date="1508836423474" expanded="true" signature="461:506" ph="SELECT * fro... county" />
+            <marker date="1508836423474" expanded="true" signature="737:1049" ph="SELECT ctif.... ctinfo" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/custom/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11208">
+          <caret line="467" column="27" lean-forward="true" selection-start-line="467" selection-start-column="27" selection-end-line="467" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2808">
+          <caret line="117" column="64" lean-forward="true" selection-start-line="117" selection-start-column="64" selection-end-line="117" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/custom/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10176">
+          <caret line="424" column="0" lean-forward="true" selection-start-line="424" selection-start-column="0" selection-end-line="424" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5454">
+          <caret line="202" column="70" lean-forward="false" selection-start-line="189" selection-start-column="46" selection-end-line="202" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/custom/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5859">
+          <caret line="217" column="0" lean-forward="false" selection-start-line="217" selection-start-column="0" selection-end-line="217" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <marker date="1508310220285" expanded="true" signature="91:158" ph="SELECT code,... county" />
+            <marker date="1508310220285" expanded="true" signature="299:393" ph="SELECT code,... county" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/write.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <marker date="1508282478804" expanded="true" signature="170:291" ph="INSERT INTO county... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_2/form_controls.html" />
+    <entry file="file://$PROJECT_DIR$/api/getdata.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <marker date="1508836423474" expanded="true" signature="178:223" ph="SELECT * fro... state" />
+            <marker date="1508836423474" expanded="true" signature="461:506" ph="SELECT * fro... county" />
+            <marker date="1508836423474" expanded="true" signature="737:1049" ph="SELECT ctif.... ctinfo" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" column="55" lean-forward="false" selection-start-line="80" selection-start-column="55" selection-end-line="80" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <marker date="1508310220285" expanded="true" signature="91:158" ph="SELECT code,... county" />
+            <marker date="1508310220285" expanded="true" signature="299:393" ph="SELECT code,... county" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/custom/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2516">
+          <caret line="148" column="29" lean-forward="false" selection-start-line="148" selection-start-column="22" selection-end-line="148" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/custom/js/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="906">
+          <caret line="13818" column="0" lean-forward="false" selection-start-line="13818" selection-start-column="0" selection-end-line="13818" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_2/form_controls.html" />
+    <entry file="file://$PROJECT_DIR$/assets/global/plugins/datatables/datatables.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="12" column="953" lean-forward="false" selection-start-line="12" selection-start-column="953" selection-end-line="12" selection-end-column="953" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/global/css/plugins-md.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="1164" column="48" lean-forward="false" selection-start-line="1164" selection-start-column="48" selection-end-line="1164" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/jvector/us/all-data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/jvector/jquery-jvectormap-us_aea.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="0" column="614" lean-forward="false" selection-start-line="0" selection-start-column="613" selection-end-line="0" selection-end-column="614" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/deletect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1508433024526" expanded="true" signature="80:99" ph="delete from " />
+            <marker date="1508433024526" expanded="true" signature="80:108" ph="delete from " />
+            <marker date="1508433024526" expanded="true" signature="80:145" ph="delete from " />
+            <marker date="1508433024526" expanded="true" signature="91:99" ph="update ctinf... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/write.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <marker date="1508282478804" expanded="true" signature="170:291" ph="INSERT INTO county... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <marker date="1508310220285" expanded="true" signature="91:158" ph="SELECT code,... county" />
+            <marker date="1508310220285" expanded="true" signature="299:393" ph="SELECT code,... county" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/getdata.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1508836423474" expanded="true" signature="178:223" ph="SELECT * fro... state" />
+            <marker date="1508836423474" expanded="true" signature="461:506" ph="SELECT * fro... county" />
+            <marker date="1508836423474" expanded="true" signature="737:1049" ph="SELECT ctif.... ctinfo" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/updatect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="427" lean-forward="false" selection-start-line="6" selection-start-column="427" selection-end-line="6" selection-end-column="427" />
+          <folding>
+            <marker date="1508859610405" expanded="true" signature="80:110" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:112" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:144" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:173" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:208" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:266" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:328" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:379" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:420" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:464" ph="update ctinf... " />
+            <marker date="1508859610405" expanded="true" signature="80:576" ph="update ctinf... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/custom/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1464">
+          <caret line="61" column="19" lean-forward="false" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/insertdata.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="462" lean-forward="false" selection-start-line="6" selection-start-column="462" selection-end-line="6" selection-end-column="462" />
+          <folding>
+            <marker date="1508859489573" expanded="true" signature="82:220" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:222" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:241" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:266" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:308" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:348" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:391" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:435" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:468" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:501" ph="INSERT INTO ctinfo... " />
+            <marker date="1508859489573" expanded="true" signature="82:586" ph="INSERT INTO ctinfo... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/updatestate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1508859537634" expanded="true" signature="82:108" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:110" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:140" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:189" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:237" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:271" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:319" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:353" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:395" ph="update state... " />
+            <marker date="1508859537634" expanded="true" signature="82:417" ph="update state... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/custom/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="68" column="40" lean-forward="false" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

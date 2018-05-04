@@ -1,0 +1,70 @@
+.page-content-wrapper .page-content{
+	margin-left: 0px !important;
+}
+.search-form-expanded{
+	width: 350px;
+	float: right;
+    border: 0;
+    background: 0 0!important;
+    font-size: 14px;
+    padding-left: 0;
+    margin-left: 12px;
+    position: relative;
+    transition: all .6s;
+}
+
+#search_area{
+    position: fixed;
+    max-height: 400px;
+    width: 303px;
+    overflow-y: scroll;
+    overflow-x:hidden;
+    z-index: 1000;
+    border:1px solid #c2cad8;
+}
+
+#search_table tbody tr td:nth-child(1){
+    display: none;
+}
+#search_table tbody tr td:nth-child(2){
+    text-align: center;
+}
+
+.portlet-body{
+    padding-top:2vh !important;
+    padding-bottom:2vh !important;
+}
+.page-content{
+    padding: 0px !important;
+}
+
+body{
+    background-color:#FFF;
+    overflow: hidden;
+}
+
+.row{
+    background-color: #fff;
+}
+
+table.dataTable.no-footer{
+    border-bottom: 0px;
+}
+.table-scrollable{
+    margin:0px !important ;
+}
+
+.tab-content{
+    padding-top:0px !important;
+}
+
+.tab-pane{
+    padding:30px 35px 15px 10px;
+}
+
+.custom-label{
+    color:#44b6ae;
+    font-size:17px;
+    font-weight: bolder;
+    font-style: italic;
+}
